@@ -21,6 +21,8 @@ If you already generated or downloaded Seurat/SingleCellExperiment Objects, plea
 
 
 
-If you have any questions, please send me an e-mail to jhyouk@gmail.com
+
+If you have any questions, please send me an e-mail to jhyouk@gmail.com.
+
 Jeonghwan Youk
 (last update: Dec. 3rd, 2020)
