@@ -19,7 +19,8 @@ There are two files related to scRNAseq analysis; 02_scRNAseq.R and 03_Figure_sc
 If you try to generate Seurat/SingleCellExperiment Objects from feature matrices, please follow "02_scRNAseq.R" file.
 If you already generated or downloaded Seurat/SingleCellExperiment Objects, please follow "03_Figure_scRNA.R" file. 
 
-If you have any questions, please send me an e-mail to jhyouk@gmail.com
 
+
+If you have any questions, please send me an e-mail to jhyouk@gmail.com
 Jeonghwan Youk
 (last update: Dec. 3rd, 2020)
